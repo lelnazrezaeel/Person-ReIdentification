@@ -17,7 +17,7 @@ Our dataset consists of 35 unique identities, captured from two disjoint camera 
 
 **Note:** The dataset is private and not available for public use.
 
-##<img width="20" height="20" src="https://img.icons8.com/ios/50/test-passed--v1.png" alt="test-passed--v1"/> Results
+## <img width="20" height="20" src="https://img.icons8.com/ios/50/test-passed--v1.png" alt="test-passed--v1"/> Results
 By incorporating temporal features into the SOLIDER-REID base model, we observed an improvement in identification accuracy.
 
 We used the **Leave-One-Out** method in the temporal model for better performance and generalization. In the **Few-Shot Learning** method, we employed two procedures: 
